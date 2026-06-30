@@ -58,8 +58,6 @@ ipm-kemiskinan-sumut/
 
 ## 📊 Dashboard Preview
 
-> *Screenshot dashboard akan ditambahkan setelah selesai dibuat di Power BI*
-
 ![Dashboard Preview](assets/screenshot_dashboard.png)
 
 ### Visualisasi yang ada di dashboard:
