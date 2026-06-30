@@ -1,0 +1,166 @@
+﻿Kabupaten Kota,Tahun,Sum of IPM,Sum of Presentasi_penduduk_miskin,Pengeluaran_perkapita,Sum of Rata_rata_lama_sekolah,Kategori_IPM
+Asahan,2019,69.92,9.68,10983,8.49,Sedang
+Asahan,2020,70.29,9.04,10890,8.79,Tinggi
+Asahan,2021,70.49,9.35,11030,8.8,Tinggi
+Asahan,2022,71.13,8.64,11515,8.82,Tinggi
+Asahan,2023,71.56,8.21,11795,8.83,Tinggi
+Batu Bara,2019,68.35,12.14,10575,8.02,Sedang
+Batu Bara,2020,68.36,11.88,10410,8.06,Sedang
+Batu Bara,2021,68.58,12.38,10539,8.07,Sedang
+Batu Bara,2022,69.51,11.53,10755,8.26,Sedang
+Batu Bara,2023,70.31,11.38,10933,8.5,Tinggi
+Binjai,2019,75.89,5.66,11260,10.77,Tinggi
+Binjai,2020,75.89,5.71,10997,10.93,Tinggi
+Binjai,2021,76.01,5.81,11063,10.94,Tinggi
+Binjai,2022,76.95,5.1,11358,11.18,Tinggi
+Binjai,2023,77.6,4.79,11567,11.19,Tinggi
+Dairi,2019,71.42,7.7,10602,9.34,Tinggi
+Dairi,2020,71.57,8.04,10350,9.58,Tinggi
+Dairi,2021,71.84,8.31,10504,9.59,Tinggi
+Dairi,2022,72.56,7.88,10740,9.72,Tinggi
+Dairi,2023,73.27,7.47,10969,9.88,Tinggi
+Deli Serdang,2019,75.43,3.89,12317,10.08,Tinggi
+Deli Serdang,2020,75.44,3.88,12225,10.09,Tinggi
+Deli Serdang,2021,75.53,4.01,12291,10.1,Tinggi
+Deli Serdang,2022,76.19,3.62,12657,10.27,Tinggi
+Deli Serdang,2023,76.52,3.44,12890,10.28,Tinggi
+Gunungsitoli,2019,69.3,16.23,8058,8.58,Sedang
+Gunungsitoli,2020,69.31,16.41,7980,8.61,Sedang
+Gunungsitoli,2021,69.61,16.45,8134,8.62,Sedang
+Gunungsitoli,2022,70.23,14.81,8434,8.64,Tinggi
+Gunungsitoli,2023,70.68,14.78,8635,8.65,Tinggi
+Humbang Hasundutan,2019,68.83,8.75,7902,9.53,Sedang
+Humbang Hasundutan,2020,68.87,9.36,7850,9.54,Sedang
+Humbang Hasundutan,2021,69.41,9.65,8016,9.71,Sedang
+Humbang Hasundutan,2022,70.32,8.86,8250,10,Tinggi
+Humbang Hasundutan,2023,70.75,8.69,8476,10.01,Tinggi
+Karo,2019,74.25,8.23,12474,9.62,Tinggi
+Karo,2020,74.43,8.7,12349,9.79,Tinggi
+Karo,2021,74.83,8.79,12412,10,Tinggi
+Karo,2022,75.36,8.17,12554,10.02,Tinggi
+Karo,2023,75.98,7.98,12779,10.03,Tinggi
+Labuanbatu Utara,2019,71.43,9.57,11957,8.36,Tinggi
+Labuanbatu Utara,2020,71.61,9.53,11779,8.4,Tinggi
+Labuanbatu Utara,2021,71.87,10.02,11840,8.41,Tinggi
+Labuanbatu Utara,2022,72.77,9.09,12258,8.64,Tinggi
+Labuanbatu Utara,2023,73.63,9.08,12429,8.87,Tinggi
+Labuhan Batu,2019,71.94,8.44,11193,9.23,Tinggi
+Labuhan Batu,2020,72.01,8.44,11150,9.24,Tinggi
+Labuhan Batu,2021,72.09,8.74,11212,9.25,Tinggi
+Labuhan Batu,2022,72.92,8.26,11474,9.4,Tinggi
+Labuhan Batu,2023,73.69,7.99,11670,9.49,Tinggi
+Labuhanbatu Selatan,2019,71.39,8.94,11553,8.74,Tinggi
+Labuhanbatu Selatan,2020,71.4,8.34,11495,8.75,Tinggi
+Labuhanbatu Selatan,2021,71.69,8.53,11562,8.9,Tinggi
+Labuhanbatu Selatan,2022,72.16,8.09,11751,8.92,Tinggi
+Labuhanbatu Selatan,2023,72.82,8.06,11950,8.93,Tinggi
+Langkat,2019,70.76,9.91,11208,8.64,Tinggi
+Langkat,2020,71,9.73,11071,8.65,Tinggi
+Langkat,2021,71.35,10.12,11142,8.66,Tinggi
+Langkat,2022,71.86,9.49,11439,8.68,Tinggi
+Langkat,2023,72.21,9.23,11632,8.73,Tinggi
+Mandailing Natal,2019,66.52,9.11,9900,8.36,Sedang
+Mandailing Natal,2020,66.79,9.18,9684,8.62,Sedang
+Mandailing Natal,2021,67.19,9.49,9771,8.63,Sedang
+Mandailing Natal,2022,68.05,8.92,10061,8.76,Sedang
+Mandailing Natal,2023,68.56,8.86,10251,8.84,Sedang
+Medan,2019,80.97,8.08,15033,11.38,Sangat Tinggi
+Medan,2020,80.98,8.01,14890,11.39,Sangat Tinggi
+Medan,2021,81.21,8.34,14999,11.48,Sangat Tinggi
+Medan,2022,81.76,8.07,15503,11.5,Sangat Tinggi
+Medan,2023,82.19,8,15674,11.62,Sangat Tinggi
+Nias,2019,61.65,15.94,7042,5.15,Sedang
+Nias,2020,61.93,16.6,6898,5.36,Sedang
+Nias,2021,62.74,16.82,6995,5.64,Sedang
+Nias,2022,63.69,16,7196,5.88,Sedang
+Nias,2023,64.56,15.1,7301,6.14,Sedang
+Nias Barat,2019,61.14,25.51,6009,6.14,Sedang
+Nias Barat,2020,61.51,25.69,5830,6.49,Sedang
+Nias Barat,2021,61.99,26.42,5924,6.69,Sedang
+Nias Barat,2022,62.93,24.75,6152,6.97,Sedang
+Nias Barat,2023,63.7,22.81,6382,7.07,Sedang
+Nias Selatan,2019,61.59,16.45,7105,5.53,Sedang
+Nias Selatan,2020,61.89,16.74,6974,5.85,Sedang
+Nias Selatan,2021,62.35,16.92,7041,6.06,Sedang
+Nias Selatan,2022,63.17,16.48,7195,6.23,Sedang
+Nias Selatan,2023,64.12,16.39,7299,6.48,Sedang
+Nias Utara,2019,61.98,24.99,6245,6.25,Sedang
+Nias Utara,2020,62.36,25.07,6064,6.58,Sedang
+Nias Utara,2021,62.82,25.66,6155,6.77,Sedang
+Nias Utara,2022,63.75,23.4,6575,6.78,Sedang
+Nias Utara,2023,64.64,21.79,6788,6.85,Sedang
+Padang Lawas,2019,68.16,8.28,9100,8.69,Sedang
+Padang Lawas,2020,68.25,8.37,8807,9.01,Sedang
+Padang Lawas,2021,68.64,8.69,8921,9.02,Sedang
+Padang Lawas,2022,69.58,8.05,9207,9.31,Sedang
+Padang Lawas,2023,70.34,7.89,9395,9.43,Tinggi
+Padang Lawas Utara,2019,69.29,9.6,10194,9.1,Sedang
+Padang Lawas Utara,2020,69.85,9.7,9987,9.37,Sedang
+Padang Lawas Utara,2021,70.11,9.92,10055,9.38,Tinggi
+Padang Lawas Utara,2022,70.93,8.94,10447,9.46,Tinggi
+Padang Lawas Utara,2023,71.63,8.79,10615,9.55,Tinggi
+Padangsidimpuan,2019,75.06,7.26,11181,10.7,Tinggi
+Padangsidimpuan,2020,75.22,7.4,10856,11,Tinggi
+Padangsidimpuan,2021,75.48,7.53,10965,11.09,Tinggi
+Padangsidimpuan,2022,76.05,6.89,11337,11.11,Tinggi
+Padangsidimpuan,2023,76.44,6.85,11552,11.12,Tinggi
+Pakpak Bharat,2019,67.47,9.27,8402,8.73,Sedang
+Pakpak Bharat,2020,67.59,9.28,8170,9.03,Sedang
+Pakpak Bharat,2021,67.94,9.35,8254,9.14,Sedang
+Pakpak Bharat,2022,68.85,8.66,8558,9.39,Sedang
+Pakpak Bharat,2023,69.58,7.54,8764,9.61,Sedang
+Pematangsiantar,2019,78.57,8.63,12571,11.15,Tinggi
+Pematangsiantar,2020,78.75,8.27,12372,11.16,Tinggi
+Pematangsiantar,2021,79.17,8.52,12436,11.29,Tinggi
+Pematangsiantar,2022,79.7,7.88,12744,11.31,Tinggi
+Pematangsiantar,2023,80.46,7.24,12984,11.58,Sangat Tinggi
+Samosir,2019,70.55,12.52,8654,9.15,Tinggi
+Samosir,2020,70.63,12.48,8422,9.43,Tinggi
+Samosir,2021,70.83,12.68,8504,9.44,Tinggi
+Samosir,2022,71.67,11.77,8991,9.46,Tinggi
+Samosir,2023,72.08,11.66,9158,9.47,Tinggi
+Serdang Bedagai,2019,70.21,7.9,11061,8.53,Tinggi
+Serdang Bedagai,2020,70.24,7.97,10950,8.54,Tinggi
+Serdang Bedagai,2021,70.56,8.3,11017,8.69,Tinggi
+Serdang Bedagai,2022,71.21,7.82,11499,8.71,Tinggi
+Serdang Bedagai,2023,71.75,7.44,11695,8.85,Tinggi
+Sibolga,2019,73.41,12.36,11656,10.18,Tinggi
+Sibolga,2020,73.63,11.95,11473,10.4,Tinggi
+Sibolga,2021,73.94,12.33,11540,10.41,Tinggi
+Sibolga,2022,74.74,11.47,12135,10.43,Tinggi
+Sibolga,2023,75.2,11.42,12285,10.44,Tinggi
+Simalungun,2019,72.98,8.81,11422,9.36,Tinggi
+Simalungun,2020,73.25,8.46,11308,9.6,Tinggi
+Simalungun,2021,73.4,8.81,11376,9.61,Tinggi
+Simalungun,2022,73.77,8.26,11524,9.63,Tinggi
+Simalungun,2023,74.29,7.87,11746,9.72,Tinggi
+Tanjungbalai,2019,68.51,14.04,11383,9.26,Sedang
+Tanjungbalai,2020,68.65,13.33,11132,9.44,Sedang
+Tanjungbalai,2021,68.94,13.4,11225,9.45,Sedang
+Tanjungbalai,2022,69.86,12.45,11589,9.55,Sedang
+Tanjungbalai,2023,70.59,12.21,11753,9.68,Tinggi
+Tapanuli Selatan,2019,69.75,8.6,11410,8.97,Sedang
+Tapanuli Selatan,2020,70.12,8.47,11236,9.28,Tinggi
+Tapanuli Selatan,2021,70.33,8.8,11304,9.29,Tinggi
+Tapanuli Selatan,2022,70.92,8.07,11727,9.34,Tinggi
+Tapanuli Selatan,2023,71.55,7.01,11829,9.51,Tinggi
+Tapanuli Tengah,2019,68.86,12.53,10175,8.48,Sedang
+Tapanuli Tengah,2020,69.23,12.38,10071,8.62,Sedang
+Tapanuli Tengah,2021,69.61,12.67,10138,8.84,Sedang
+Tapanuli Tengah,2022,70.31,11.71,10495,8.86,Tinggi
+Tapanuli Tengah,2023,70.91,11.5,10690,8.87,Tinggi
+Tapanuli Utara,2019,73.33,9.48,11791,9.71,Tinggi
+Tapanuli Utara,2020,73.47,9.37,11648,9.85,Tinggi
+Tapanuli Utara,2021,73.76,9.72,11710,9.99,Tinggi
+Tapanuli Utara,2022,74.14,8.93,11892,10,Tinggi
+Tapanuli Utara,2023,74.65,8.54,12115,10.09,Tinggi
+Tebing Tinggi,2019,75.08,9.94,12895,10.28,Tinggi
+Tebing Tinggi,2020,75.17,9.85,12876,10.31,Tinggi
+Tebing Tinggi,2021,75.42,10.3,12939,10.44,Tinggi
+Tebing Tinggi,2022,76.17,9.59,13144,10.65,Tinggi
+Tebing Tinggi,2023,76.98,9.49,13385,10.86,Tinggi
+Toba,2019,74.92,8.6,12375,10.36,Tinggi
+Toba,2020,75.16,8.71,12154,10.52,Tinggi
+Toba,2021,75.39,8.99,12224,10.57,Tinggi
+Toba,2022,75.96,8.89,12475,10.58,Tinggi
+Toba,2023,76.38,8.04,12676,10.59,Tinggi
