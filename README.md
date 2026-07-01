@@ -62,7 +62,7 @@ ipm-kemiskinan-sumut/
 
 ### Visualisasi yang ada di dashboard:
 - **Bar Chart** — Ranking IPM 33 kabupaten/kota (tertinggi ke terendah)
-- **Line Chart** — Tren IPM Sumatera Utara vs rata-rata nasional (2019–2023)
+- **Line Chart** — Tren rata-rata IPM Sumatera Utara 2019–2023
 - **Scatter Plot** — Korelasi antara kemiskinan (%) dan nilai IPM
 - **KPI Cards** — Rata-rata IPM, jumlah kabupaten kategori rendah, gap tertinggi-terendah
 - **Slicer** — Filter interaktif berdasarkan tahun dan kabupaten
