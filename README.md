@@ -71,7 +71,7 @@ ipm-kemiskinan-sumut/
 
 ## 💡 Key Insights
 
-Analisis menunjukkan kesenjangan IPM mencapai ±20 poin antara kabupaten tertinggi dan terendah di Sumatera Utara, dengan kota-kota besar mendominasi ranking teratas. Ditemukan korelasi negatif yang jelas antara tingkat kemiskinan dan IPM — kabupaten dengan kemiskinan di atas 20% rata-rata memiliki IPM di bawah 70. Meski demikian, tren 5 tahun terakhir menunjukkan perbaikan IPM provinsi secara konsisten, naik dari 70.5 ke 72.5.
+Analisis menunjukkan kesenjangan IPM mencapai ±20 poin antara kabupaten tertinggi dan terendah di Sumatera Utara, dengan kota-kota besar mendominasi ranking teratas. Ditemukan korelasi negatif yang jelas antara tingkat kemiskinan dan IPM — kabupaten dengan kemiskinan di atas 20% rata-rata memiliki IPM di bawah 70. Kota Medan memiliki IPM tertinggi (81) sementara Nias Selatan terendah (64.12). Meski demikian, tren 5 tahun terakhir menunjukkan perbaikan IPM provinsi secara konsisten, naik dari 70.5 ke 72.5.
 
 ---
 
@@ -83,7 +83,7 @@ Analisis menunjukkan kesenjangan IPM mencapai ±20 poin antara kabupaten terting
 4. Dashboard siap digunakan secara interaktif
 
 ```bash
-git clone https://github.com/USERNAME/ipm-kemiskinan-sumut.git
+git clone https://github.com/jihanlatifah/ipm-kemiskinan-sumut.git
 ```
 
 ---
